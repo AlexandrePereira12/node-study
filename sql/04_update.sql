@@ -1,0 +1,1 @@
+UPDATE users set name = "Pullof4" WHERE name = "Pullof3";

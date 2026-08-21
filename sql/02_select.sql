@@ -1,0 +1,1 @@
+Select * FROM users where age = 23;
